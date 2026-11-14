@@ -1,0 +1,21 @@
+[
+  {
+    "id": "5021124",
+    "name": "item_name5021124",
+    "type": "5",
+    "className": "525",
+    "hide": "0",
+    "playerShow": "0",
+    "npcShow": "0",
+    "icon": "xiongpi",
+    "level": "1",
+    "desc": "item_desc5021124",
+    "isOverlay": "1",
+    "drop": "1",
+    "dieDrop": "1",
+    "auction": "0",
+    "sale": "2",
+    "worth": "4",
+    "isMultiDrop": "1"
+  }
+]
